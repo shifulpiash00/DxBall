@@ -1,0 +1,7 @@
+1.IF you are inside the game,you can press 
+"TAB" button to pause and return to main menu.
+
+2.If you are in the 'high score' or 'credits'menu,
+you can press "b" to return to main menu and continue to other options
+
+3.You have to use mouse to start the ball or control the paddle

@@ -1,0 +1,21 @@
+# Visual Studio build folders
+Debug/
+Release/
+x64/
+.vs/
+
+# Compiled files
+*.obj
+*.ilk
+*.pdb
+*.exe
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.opensdf
+*.db
+
+# Temporary files
+*.tmp
